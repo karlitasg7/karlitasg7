@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+I'm a Full Stack Developer with 10+ years of experience developing web application with AngularJS and Angular 2+. I have experience develop in the backend API's Rest with Java8+, Kotlin, using Spring Framework with Hibernate, JPA and using PostgreSQL and SQL Server as a database. 
+
+I am a person who like to learn something new every day, I love to solve real life problems using technology.
+
+If you like my profile and you want to know more about me, please contact me to hi@karlasequen.com
+
+
 <!--
 **karlitasg7/karlitasg7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
