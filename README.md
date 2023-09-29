@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-I'm a Software Engineer with 10+ years of experience developing web application with AngularJS and Angular 2+. I have experience develop in the backend API's Rest with Java8+, Kotlin, using Spring Boot with Hibernate, JPA and using PostgreSQL and SQL Server as a database.
-And I also have some experience in C#, VB.net and Ionic
+I'm a Software Engineer with 10+ years of experience developing web application with AngularJS, Angular 2+ and React. I have experience develop in the backend API's Rest with Java8+, Kotlin, using Spring Boot with Hibernate, JPA, .Net and using PostgreSQL and SQL Server as a database.
+And I also have some experience using Ionic
 
 I am a person who like to learn something new every day, I love to solve real life problems using technology.
 
