@@ -3,7 +3,9 @@
 Software Engineer with 15+ years of experience building scalable web applications and REST APIs. 
 
 Frontend: AngularJS, Angular 2+, React
+
 Backend: Java 8+, Kotlin, .NET, Spring Framework (Hibernate, JPA)
+
 Databases: PostgreSQL, SQL Server, Azure CosmosDB
 
 Passionate about clean code, continuous learning, and staying current with emerging technologies.
