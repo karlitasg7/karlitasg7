@@ -1,11 +1,14 @@
 ### Hi there 👋
 
+Software Engineer with 15+ years of experience building scalable web applications and REST APIs. 
 
-I'm a Software Engineer with 15+ years of experience building web applications using AngularJS, Angular 2+, and React. Proficient in developing REST APIs with Java 8+, Kotlin, and .NET, leveraging the Spring Framework with Hibernate and JPA. Skilled in working with databases such as PostgreSQL and SQL Server.
+Frontend: AngularJS, Angular 2+, React
+Backend: Java 8+, Kotlin, .NET, Spring Framework (Hibernate, JPA)
+Databases: PostgreSQL, SQL Server, Azure CosmosDB
 
-Self-motivated and passionate about learning and exploring new technologies.
+Passionate about clean code, continuous learning, and staying current with emerging technologies.
 
-If you like my profile and you want to know more about me, please contact me to hi@karlasequen.com
+Let's connect at hi@karlasequen.com
 
 
 <!--
